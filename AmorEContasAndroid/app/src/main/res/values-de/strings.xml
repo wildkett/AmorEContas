@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">Übersicht des Paarbudgets</string>
+    <string name="summary_paid">%s hat bezahlt</string>
+    <string name="summary_total">Gesamt</string>
+    <string name="summary_fairshare">Fairer Anteil von %s</string>
+    <string name="division_section_title">Aufteilung</string>
+    <string name="division_share">Anteil von %s</string>
+    <string name="settlement_section_title">Ausgleich</string>
+    <string name="settlement_copy">Ausgleich kopieren</string>
+    <string name="settlement_share">Ausgleich teilen</string>
+    <string name="settlement_signature">\n\n— Geteilt von Amor&amp;Contas 💗</string>
+    <string name="settings_settlementdetailed_toggle">Detaillierter Ausgleich</string>
+    <string name="settlement_detail_empty">Noch keine Ausgleichsdetails verfügbar.</string>
+    <string name="settlement_detail_title">Detaillierte Aufschlüsselung</string>
+    <string name="settlement_detail_total">Gesamtausgaben: %s</string>
+    <string name="settlement_detail_mode_scale">Modus: Automatisch (Skala) • Gesamtskala = %s</string>
+    <string name="settlement_detail_mode_equal">Modus: Gleichmäßige Aufteilung • %d Personen</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">Bezahlt: %s</string>
+    <string name="settlement_detail_person_shareshape">Fairer Anteil = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">Fairer Anteil = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">Saldo = %s - %s = 0.00 (ausgeglichen)</string>
+    <string name="settlement_detail_person_balance_owes">Saldo = %s - %s = -%s (schuldet)</string>
+    <string name="settlement_detail_person_balance_receives">Saldo = %s - %s = +%s (erhält)</string>
+    <string name="settlement_detail_result_title">Ausgleichsergebnis</string>
+    <string name="alert_copied_title">Kopiert</string>
+    <string name="alert_settlementcopied_message">Ausgleichstext erfolgreich kopiert.</string>
+    <string name="alert_expenseadded_title">Ausgabe hinzugefügt</string>
+    <string name="alert_invalidamount_title">Ungültiger Betrag</string>
+    <string name="alert_invalidamount_message">Gib einen Betrag größer als 0 ein, um eine Ausgabe hinzuzufügen.</string>
+</resources>

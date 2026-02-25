@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">情侣预算概览</string>
+    <string name="summary_paid">%s 已支付</string>
+    <string name="summary_total">总计</string>
+    <string name="summary_fairshare">%s 的公平分摊</string>
+    <string name="division_section_title">分摊</string>
+    <string name="division_share">%s 的占比</string>
+    <string name="settlement_section_title">结算</string>
+    <string name="settlement_copy">复制结算</string>
+    <string name="settlement_share">分享结算</string>
+    <string name="settlement_signature">\n\n— 来自 Amor&amp;Contas 的分享 💗</string>
+    <string name="settings_settlementdetailed_toggle">详细结算</string>
+    <string name="settlement_detail_empty">暂时没有可用的结算明细。</string>
+    <string name="settlement_detail_title">详细计算说明</string>
+    <string name="settlement_detail_total">总支出：%s</string>
+    <string name="settlement_detail_mode_scale">模式：自动（比例） • 总比例值 = %s</string>
+    <string name="settlement_detail_mode_equal">模式：平均分摊 • %d 人</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">已支付：%s</string>
+    <string name="settlement_detail_person_shareshape">公平分摊 = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">公平分摊 = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">余额 = %s - %s = 0.00（已平衡）</string>
+    <string name="settlement_detail_person_balance_owes">余额 = %s - %s = -%s（应支付）</string>
+    <string name="settlement_detail_person_balance_receives">余额 = %s - %s = +%s（应收取）</string>
+    <string name="settlement_detail_result_title">结算结果</string>
+    <string name="alert_copied_title">已复制</string>
+    <string name="alert_settlementcopied_message">结算文本复制成功。</string>
+    <string name="alert_expenseadded_title">已添加支出</string>
+    <string name="alert_invalidamount_title">金额无效</string>
+    <string name="alert_invalidamount_message">请输入大于 0 的金额以添加支出。</string>
+</resources>

@@ -1,0 +1,129 @@
+"summary.section.title" = "Overzicht van het koppelbudget";
+"summary.paid" = "%@ heeft betaald";
+"summary.total" = "Totaal";
+"summary.fairShare" = "Eerlijk aandeel van %@";
+
+"division.section.title" = "Verdeling";
+"division.share" = "Aandeel van %@";
+
+"settlement.section.title" = "Vereffening";
+"settlement.copy" = "Vereffening kopiëren";
+"settlement.share" = "Vereffening delen";
+"settlement.signature" = "\n\n— Gedeeld vanuit Amor&Contas 💗";
+"settings.settlementDetailed.toggle" = "Gedetailleerde vereffening";
+"settlement.detail.empty" = "Nog geen vereffeningsdetails beschikbaar.";
+"settlement.detail.title" = "Gedetailleerde uitsplitsing";
+"settlement.detail.total" = "Totale uitgaven: %@";
+"settlement.detail.mode.scale" = "Modus: Automatisch (Schaal) • Totale schaal = %@";
+"settlement.detail.mode.equal" = "Modus: Gelijke verdeling • %d personen";
+"settlement.detail.person.header" = "%@";
+"settlement.detail.person.paid" = "Betaald: %@";
+"settlement.detail.person.shareScale" = "Eerlijk aandeel = %@ × (%@ / %@) = %@";
+"settlement.detail.person.shareEqual" = "Eerlijk aandeel = %@ / %d = %@";
+"settlement.detail.person.balance.neutral" = "Saldo = %@ - %@ = 0.00 (in balans)";
+"settlement.detail.person.balance.owes" = "Saldo = %@ - %@ = -%@ (moet betalen)";
+"settlement.detail.person.balance.receives" = "Saldo = %@ - %@ = +%@ (ontvangt)";
+"settlement.detail.result.title" = "Resultaat van vereffening";
+
+"alert.copied.title" = "Gekopieerd";
+"alert.settlementCopied.message" = "Vereffeningstekst succesvol gekopieerd.";
+"alert.expenseAdded.title" = "Uitgave toegevoegd";
+"alert.invalidAmount.title" = "Ongeldig bedrag";
+"alert.invalidAmount.message" = "Voer een bedrag groter dan 0 in om een uitgave toe te voegen.";
+
+"common.ok" = "OK";
+"common.close" = "Sluiten";
+
+"expenses.section.title" = "Uitgaven van %@";
+"expenses.empty" = "Geen uitgaven toegevoegd.";
+
+"settings.people.section" = "Personen";
+"settings.name.placeholder" = "Naam";
+"settings.addPerson" = "Persoon toevoegen";
+"settings.section.title" = "Instellingen";
+"settings.currency.label" = "Valutasymbool (bijv: $, €)";
+"settings.currency.placeholder" = "$";
+"settings.splitMode.label" = "Verdeelmodus";
+"settings.splitMode.automatic" = "Automatisch (Schaal)";
+"settings.splitMode.equal" = "50 / 50";
+"settings.language.label" = "App-taal";
+"settings.language.system" = "Systeemstandaard";
+"settings.language.en" = "English";
+"settings.language.ptBR" = "Português (Brasil)";
+"settings.language.es" = "Español";
+"settings.language.fr" = "Français";
+"settings.language.de" = "Deutsch";
+"settings.language.it" = "Italiano";
+"settings.language.nl" = "Nederlands";
+"settings.language.tr" = "Türkçe";
+"settings.language.ru" = "Русский";
+"settings.language.ja" = "日本語";
+"settings.language.ko" = "한국어";
+"settings.language.zhHans" = "简体中文";
+"settings.language.nav.title" = "App-taal";
+"settings.language.helper" = "Kies de taal die in de app wordt gebruikt.";
+"settings.scale.section" = "Schaalwaarden";
+"settings.about.section" = "Over";
+"settings.about.link" = "Over deze app";
+"settings.nav.title" = "Instellingen";
+
+"addExpense.nav.title" = "Uitgave toevoegen";
+"addExpense.noPeople" = "Voeg minimaal één persoon toe in Instellingen.";
+"addExpense.section.title" = "Uitgave toevoegen";
+"addExpense.paidBy" = "Betaald door";
+"addExpense.amount.placeholder" = "Bedrag";
+"addExpense.name.placeholder" = "Naam van uitgave";
+"addExpense.button" = "Uitgave toevoegen";
+"addExpense.selectedPersonFallback" = "Geselecteerde persoon";
+"addExpense.expenseFallback" = "Uitgave";
+"addExpense.success.message" = "%1$@ is toegevoegd voor %2$@.\nToegevoegd bedrag: %3$@.\nNieuw totaal voor %2$@: %4$@.";
+
+"upgrade.people.limit.reason" = "De gratis versie ondersteunt tot 2 personen. Upgrade naar Full om meer personen toe te voegen.";
+"upgrade.expenses.limit.reason" = "De gratis versie staat slechts 1 uitgave per persoon toe. Upgrade naar Full voor onbeperkte uitgaven.";
+"upgrade.full.section" = "Amor&Contas Full";
+"upgrade.unlimited.description" = "Ontgrendel onbeperkte personen en onbeperkte uitgaven per persoon.";
+"upgrade.active" = "Full-versie is actief";
+"upgrade.buy" = "Koop Full-versie";
+"upgrade.restore" = "Aankopen herstellen";
+"upgrade.loadingProduct" = "Product laden...";
+"upgrade.nav.title" = "Upgrade";
+
+"about.what.title" = "Wat is Amor&Contas?";
+"about.what.text" = "Amor&Contas helpt koppels gedeelde uitgaven te verdelen met duidelijkheid, eerlijkheid en minder stress.";
+"about.why.title" = "Waarom deze app is gebouwd";
+"about.why.text" = "Het doel is verwarring en frictie bij het delen van rekeningen te verminderen.";
+"about.when5050.title" = "Wanneer 50/50 gebruiken";
+"about.when5050.text" = "Gebruik 50/50 wanneer beide personen gelijk willen bijdragen, ongeacht inkomen.";
+"about.automatic.title" = "Waarom Automatisch (Schaal)";
+"about.automatic.text" = "Automatische modus gebruikt schaalwaarden zodat iedereen proportioneel bijdraagt.";
+"about.suggestions.title" = "Gebruikssuggesties";
+"about.suggestions.text" = "Registreer uitgaven direct, bekijk vereffening wekelijks en deel het resultaat voor betaling.";
+"about.nav.title" = "Over Amor&Contas";
+"about.continue" = "Doorgaan";
+
+"store.default.personA" = "Persoon A";
+"store.default.personB" = "Persoon B";
+"store.default.person" = "Persoon";
+"store.default.expense" = "Uitgave";
+"store.addPerson.name" = "Persoon %d";
+"store.settlement.balanced" = "Alles is in balans! Jullie zijn klaar ❤️";
+"store.settlement.transfer" = "%1$@ moet %2$@ overmaken naar %3$@.";
+"store.settlement.pays" = "%1$@ betaalt %2$@";
+"store.settlement.receives" = "%1$@ ontvangt %2$@";
+
+"purchase.debug.enabled" = "DEBUG-build: Full-versie automatisch geactiveerd.";
+"purchase.product.loadFail" = "Kon aankoopopties nu niet laden.";
+"purchase.full.unavailable" = "Full-versie is momenteel niet beschikbaar.";
+"purchase.debug.noPurchase" = "DEBUG-build: Full-versie geactiveerd zonder aankoop.";
+"purchase.full.activated" = "Full-versie geactiveerd ✅";
+"purchase.pending" = "Aankoop wacht op goedkeuring.";
+"purchase.unexpected" = "Onverwacht aankoopresultaat.";
+"purchase.failed" = "Aankoop mislukt. Probeer opnieuw.";
+"purchase.debug.restored" = "DEBUG-build: Full-versie automatisch hersteld.";
+"purchase.restored" = "Aankopen hersteld ✅";
+"purchase.noPrevious" = "Geen eerdere Full-aankoop gevonden.";
+"purchase.restore.failed" = "Kon aankopen nu niet herstellen.";
+
+"addExpense.preview.title" = "Voorbeeld";
+"addExpense.preview.share" = "Deel van deze uitgave:";
+"addExpense.preview.totalAfter" = "Totaal na toevoeging:";

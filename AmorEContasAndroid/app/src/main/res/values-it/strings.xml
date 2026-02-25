@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">Riepilogo del budget di coppia</string>
+    <string name="summary_paid">%s ha pagato</string>
+    <string name="summary_total">Totale</string>
+    <string name="summary_fairshare">Parte equa di %s</string>
+    <string name="division_section_title">Divisione</string>
+    <string name="division_share">Quota di %s</string>
+    <string name="settlement_section_title">Riequilibrio</string>
+    <string name="settlement_copy">Copia riequilibrio</string>
+    <string name="settlement_share">Condividi riequilibrio</string>
+    <string name="settlement_signature">\n\n— Condiviso da Amor&amp;Contas 💗</string>
+    <string name="settings_settlementdetailed_toggle">Riequilibrio dettagliato</string>
+    <string name="settlement_detail_empty">Ancora nessun dettaglio del riequilibrio disponibile.</string>
+    <string name="settlement_detail_title">Dettaglio del calcolo</string>
+    <string name="settlement_detail_total">Spese totali: %s</string>
+    <string name="settlement_detail_mode_scale">Modalità: Automatico (Scala) • Scala totale = %s</string>
+    <string name="settlement_detail_mode_equal">Modalità: Divisione uguale • %d persone</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">Pagato: %s</string>
+    <string name="settlement_detail_person_shareshape">Quota equa = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">Quota equa = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">Saldo = %s - %s = 0.00 (bilanciato)</string>
+    <string name="settlement_detail_person_balance_owes">Saldo = %s - %s = -%s (dovuto)</string>
+    <string name="settlement_detail_person_balance_receives">Saldo = %s - %s = +%s (riceve)</string>
+    <string name="settlement_detail_result_title">Risultato del riequilibrio</string>
+    <string name="alert_copied_title">Copiato</string>
+    <string name="alert_settlementcopied_message">Testo del riequilibrio copiato con successo.</string>
+    <string name="alert_expenseadded_title">Spesa aggiunta</string>
+    <string name="alert_invalidamount_title">Importo non valido</string>
+    <string name="alert_invalidamount_message">Inserisci un importo maggiore di 0 per aggiungere una spesa.</string>
+</resources>

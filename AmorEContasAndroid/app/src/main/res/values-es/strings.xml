@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">Resumen del presupuesto en pareja</string>
+    <string name="summary_paid">%s pagó</string>
+    <string name="summary_total">Total</string>
+    <string name="summary_fairshare">Parte justa de %s</string>
+    <string name="division_section_title">División</string>
+    <string name="division_share">Parte de %s</string>
+    <string name="settlement_section_title">Liquidación</string>
+    <string name="settlement_copy">Copiar liquidación</string>
+    <string name="settlement_share">Compartir liquidación</string>
+    <string name="settlement_signature">\n\n— Compartido desde Amor&amp;Contas 💗</string>
+    <string name="settings_settlementdetailed_toggle">Liquidación detallada</string>
+    <string name="settlement_detail_empty">Aún no hay detalles de liquidación disponibles.</string>
+    <string name="settlement_detail_title">Desglose detallado</string>
+    <string name="settlement_detail_total">Gastos totales: %s</string>
+    <string name="settlement_detail_mode_scale">Modo: Automático (Escala) • Escala total = %s</string>
+    <string name="settlement_detail_mode_equal">Modo: División igual • %d personas</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">Pagado: %s</string>
+    <string name="settlement_detail_person_shareshape">Parte justa = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">Parte justa = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">Saldo = %s - %s = 0.00 (equilibrado)</string>
+    <string name="settlement_detail_person_balance_owes">Saldo = %s - %s = -%s (debe)</string>
+    <string name="settlement_detail_person_balance_receives">Saldo = %s - %s = +%s (recibe)</string>
+    <string name="settlement_detail_result_title">Resultado de la liquidación</string>
+    <string name="alert_copied_title">Copiado</string>
+    <string name="alert_settlementcopied_message">Texto de liquidación copiado correctamente.</string>
+    <string name="alert_expenseadded_title">Gasto añadido</string>
+    <string name="alert_invalidamount_title">Importe no válido</string>
+    <string name="alert_invalidamount_message">Introduce un importe mayor que 0 para añadir un gasto.</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">Resumo do orçamento do casal</string>
+    <string name="summary_paid">%s pagou</string>
+    <string name="summary_total">Total</string>
+    <string name="summary_fairshare">Parte justa de %s</string>
+    <string name="division_section_title">Divisão</string>
+    <string name="division_share">Parte de %s</string>
+    <string name="settlement_section_title">Acerto</string>
+    <string name="settlement_copy">Copiar acerto</string>
+    <string name="settlement_share">Compartilhar acerto</string>
+    <string name="settlement_signature">\n\n— Compartilhado do Amor&amp;Contas 💗</string>
+    <string name="settings_settlementdetailed_toggle">Settlement detalhado</string>
+    <string name="settlement_detail_empty">Ainda não há detalhes de acerto disponíveis.</string>
+    <string name="settlement_detail_title">Explicação matemática</string>
+    <string name="settlement_detail_total">Total de despesas: %s</string>
+    <string name="settlement_detail_mode_scale">Modo: Automático (Escala) • Escala total = %s</string>
+    <string name="settlement_detail_mode_equal">Modo: Divisão igual • %d pessoas</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">Pagou: %s</string>
+    <string name="settlement_detail_person_shareshape">Parte justa = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">Parte justa = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">Saldo = %s - %s = 0,00 (equilibrado)</string>
+    <string name="settlement_detail_person_balance_owes">Saldo = %s - %s = -%s (deve)</string>
+    <string name="settlement_detail_person_balance_receives">Saldo = %s - %s = +%s (recebe)</string>
+    <string name="settlement_detail_result_title">Resultado do acerto</string>
+    <string name="alert_copied_title">Copiado</string>
+    <string name="alert_settlementcopied_message">Texto do acerto copiado com sucesso.</string>
+    <string name="alert_expenseadded_title">Despesa adicionada</string>
+    <string name="alert_invalidamount_title">Valor inválido</string>
+    <string name="alert_invalidamount_message">Digite um valor maior que 0 para adicionar uma despesa.</string>
+</resources>

@@ -1,0 +1,129 @@
+"summary.section.title" = "Çift bütçe özeti";
+"summary.paid" = "%@ ödedi";
+"summary.total" = "Toplam";
+"summary.fairShare" = "%@ için adil pay";
+
+"division.section.title" = "Bölüşüm";
+"division.share" = "%@ payı";
+
+"settlement.section.title" = "Hesaplaşma";
+"settlement.copy" = "Hesaplaşmayı kopyala";
+"settlement.share" = "Hesaplaşmayı paylaş";
+"settlement.signature" = "\n\n— Amor&Contas'dan paylaşıldı 💗";
+"settings.settlementDetailed.toggle" = "Detaylı hesaplaşma";
+"settlement.detail.empty" = "Henüz hesaplaşma detayı yok.";
+"settlement.detail.title" = "Detaylı döküm";
+"settlement.detail.total" = "Toplam harcama: %@";
+"settlement.detail.mode.scale" = "Mod: Otomatik (Ölçek) • Toplam ölçek = %@";
+"settlement.detail.mode.equal" = "Mod: Eşit bölüşüm • %d kişi";
+"settlement.detail.person.header" = "%@";
+"settlement.detail.person.paid" = "Ödedi: %@";
+"settlement.detail.person.shareScale" = "Adil pay = %@ × (%@ / %@) = %@";
+"settlement.detail.person.shareEqual" = "Adil pay = %@ / %d = %@";
+"settlement.detail.person.balance.neutral" = "Bakiye = %@ - %@ = 0.00 (dengede)";
+"settlement.detail.person.balance.owes" = "Bakiye = %@ - %@ = -%@ (ödemeli)";
+"settlement.detail.person.balance.receives" = "Bakiye = %@ - %@ = +%@ (alacaklı)";
+"settlement.detail.result.title" = "Hesaplaşma sonucu";
+
+"alert.copied.title" = "Kopyalandı";
+"alert.settlementCopied.message" = "Hesaplaşma metni başarıyla kopyalandı.";
+"alert.expenseAdded.title" = "Harcama eklendi";
+"alert.invalidAmount.title" = "Geçersiz tutar";
+"alert.invalidAmount.message" = "Harcama eklemek için 0'dan büyük bir tutar girin.";
+
+"common.ok" = "Tamam";
+"common.close" = "Kapat";
+
+"expenses.section.title" = "%@ harcamaları";
+"expenses.empty" = "Harcama eklenmedi.";
+
+"settings.people.section" = "Kişiler";
+"settings.name.placeholder" = "Ad";
+"settings.addPerson" = "Kişi ekle";
+"settings.section.title" = "Ayarlar";
+"settings.currency.label" = "Para birimi simgesi (örn: $, €)";
+"settings.currency.placeholder" = "$";
+"settings.splitMode.label" = "Bölüşüm modu";
+"settings.splitMode.automatic" = "Otomatik (Ölçek)";
+"settings.splitMode.equal" = "50 / 50";
+"settings.language.label" = "Uygulama dili";
+"settings.language.system" = "Sistem varsayılanı";
+"settings.language.en" = "English";
+"settings.language.ptBR" = "Português (Brasil)";
+"settings.language.es" = "Español";
+"settings.language.fr" = "Français";
+"settings.language.de" = "Deutsch";
+"settings.language.it" = "Italiano";
+"settings.language.nl" = "Nederlands";
+"settings.language.tr" = "Türkçe";
+"settings.language.ru" = "Русский";
+"settings.language.ja" = "日本語";
+"settings.language.ko" = "한국어";
+"settings.language.zhHans" = "简体中文";
+"settings.language.nav.title" = "Uygulama dili";
+"settings.language.helper" = "Uygulamada kullanılacak dili seçin.";
+"settings.scale.section" = "Ölçek değerleri";
+"settings.about.section" = "Hakkında";
+"settings.about.link" = "Bu uygulama hakkında";
+"settings.nav.title" = "Ayarlar";
+
+"addExpense.nav.title" = "Harcama ekle";
+"addExpense.noPeople" = "Ayarlar'da en az bir kişi ekleyin.";
+"addExpense.section.title" = "Harcama ekle";
+"addExpense.paidBy" = "Ödeyen";
+"addExpense.amount.placeholder" = "Tutar";
+"addExpense.name.placeholder" = "Harcama adı";
+"addExpense.button" = "Harcama ekle";
+"addExpense.selectedPersonFallback" = "Seçili kişi";
+"addExpense.expenseFallback" = "Harcama";
+"addExpense.success.message" = "%1$@, %2$@ için eklendi.\nEklenen tutar: %3$@.\n%2$@ için yeni toplam: %4$@.";
+
+"upgrade.people.limit.reason" = "Ücretsiz sürüm en fazla 2 kişiyi destekler. Daha fazla kişi eklemek için Full'a yükseltin.";
+"upgrade.expenses.limit.reason" = "Ücretsiz sürüm kişi başına yalnızca 1 harcamaya izin verir. Sınırsız harcama için Full'a yükseltin.";
+"upgrade.full.section" = "Amor&Contas Full";
+"upgrade.unlimited.description" = "Sınırsız kişi ve kişi başına sınırsız harcamanın kilidini açın.";
+"upgrade.active" = "Full sürüm aktif";
+"upgrade.buy" = "Full sürümü satın al";
+"upgrade.restore" = "Satın alımları geri yükle";
+"upgrade.loadingProduct" = "Ürün yükleniyor...";
+"upgrade.nav.title" = "Yükselt";
+
+"about.what.title" = "Amor&Contas nedir?";
+"about.what.text" = "Amor&Contas, çiftlerin ortak harcamaları daha net, adil ve daha az stresle bölmesini sağlar.";
+"about.why.title" = "Bu uygulama neden yapıldı";
+"about.why.text" = "Amaç, faturaları paylaşırken karışıklığı ve sürtüşmeyi azaltmaktır.";
+"about.when5050.title" = "50/50 ne zaman kullanılır";
+"about.when5050.text" = "Gelir farkı gözetmeden eşit katkı isteniyorsa 50/50 kullanın.";
+"about.automatic.title" = "Neden Otomatik (Ölçek)";
+"about.automatic.text" = "Otomatik mod, ölçek değerleriyle orantılı katkı sağlar.";
+"about.suggestions.title" = "Kullanım önerileri";
+"about.suggestions.text" = "Harcamaları anında kaydedin, haftalık hesaplaşmayı kontrol edin ve ödemeden önce paylaşın.";
+"about.nav.title" = "Amor&Contas hakkında";
+"about.continue" = "Devam";
+
+"store.default.personA" = "Kişi A";
+"store.default.personB" = "Kişi B";
+"store.default.person" = "Kişi";
+"store.default.expense" = "Harcama";
+"store.addPerson.name" = "Kişi %d";
+"store.settlement.balanced" = "Her şey dengede! Hazırsınız ❤️";
+"store.settlement.transfer" = "%1$@, %3$@ kişisine %2$@ göndermeli.";
+"store.settlement.pays" = "%1$@ öder: %2$@";
+"store.settlement.receives" = "%1$@ alır: %2$@";
+
+"purchase.debug.enabled" = "DEBUG derleme: Full sürüm otomatik etkinleştirildi.";
+"purchase.product.loadFail" = "Satın alma seçenekleri şu anda yüklenemedi.";
+"purchase.full.unavailable" = "Full sürüm şu anda kullanılamıyor.";
+"purchase.debug.noPurchase" = "DEBUG derleme: satın alma olmadan Full etkinleştirildi.";
+"purchase.full.activated" = "Full sürüm etkinleştirildi ✅";
+"purchase.pending" = "Satın alma onay bekliyor.";
+"purchase.unexpected" = "Beklenmeyen satın alma sonucu.";
+"purchase.failed" = "Satın alma başarısız. Lütfen tekrar deneyin.";
+"purchase.debug.restored" = "DEBUG derleme: Full sürüm otomatik geri yüklendi.";
+"purchase.restored" = "Satın alımlar geri yüklendi ✅";
+"purchase.noPrevious" = "Önceki bir Full satın alımı bulunamadı.";
+"purchase.restore.failed" = "Satın alımlar şu anda geri yüklenemedi.";
+
+"addExpense.preview.title" = "Önizleme";
+"addExpense.preview.share" = "Bu harcamanın payı:";
+"addExpense.preview.totalAfter" = "Ekleme sonrası toplam:";

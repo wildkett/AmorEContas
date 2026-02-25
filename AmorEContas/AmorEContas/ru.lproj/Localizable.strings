@@ -1,0 +1,129 @@
+"summary.section.title" = "Сводка бюджета пары";
+"summary.paid" = "%@ оплатил(а)";
+"summary.total" = "Итого";
+"summary.fairShare" = "Справедливая доля %@";
+
+"division.section.title" = "Разделение";
+"division.share" = "Доля %@";
+
+"settlement.section.title" = "Расчет";
+"settlement.copy" = "Скопировать расчет";
+"settlement.share" = "Поделиться расчетом";
+"settlement.signature" = "\n\n— Отправлено из Amor&Contas 💗";
+"settings.settlementDetailed.toggle" = "Подробный расчет";
+"settlement.detail.empty" = "Подробности расчета пока недоступны.";
+"settlement.detail.title" = "Подробная разбивка";
+"settlement.detail.total" = "Общие расходы: %@";
+"settlement.detail.mode.scale" = "Режим: Авто (Шкала) • Общая шкала = %@";
+"settlement.detail.mode.equal" = "Режим: Равное деление • %d чел.";
+"settlement.detail.person.header" = "%@";
+"settlement.detail.person.paid" = "Оплачено: %@";
+"settlement.detail.person.shareScale" = "Справедливая доля = %@ × (%@ / %@) = %@";
+"settlement.detail.person.shareEqual" = "Справедливая доля = %@ / %d = %@";
+"settlement.detail.person.balance.neutral" = "Баланс = %@ - %@ = 0.00 (сбалансировано)";
+"settlement.detail.person.balance.owes" = "Баланс = %@ - %@ = -%@ (должен)";
+"settlement.detail.person.balance.receives" = "Баланс = %@ - %@ = +%@ (получает)";
+"settlement.detail.result.title" = "Итог расчета";
+
+"alert.copied.title" = "Скопировано";
+"alert.settlementCopied.message" = "Текст расчета успешно скопирован.";
+"alert.expenseAdded.title" = "Расход добавлен";
+"alert.invalidAmount.title" = "Некорректная сумма";
+"alert.invalidAmount.message" = "Введите сумму больше 0, чтобы добавить расход.";
+
+"common.ok" = "ОК";
+"common.close" = "Закрыть";
+
+"expenses.section.title" = "Расходы %@";
+"expenses.empty" = "Расходы не добавлены.";
+
+"settings.people.section" = "Люди";
+"settings.name.placeholder" = "Имя";
+"settings.addPerson" = "Добавить человека";
+"settings.section.title" = "Настройки";
+"settings.currency.label" = "Символ валюты (напр: $, €)";
+"settings.currency.placeholder" = "$";
+"settings.splitMode.label" = "Режим разделения";
+"settings.splitMode.automatic" = "Авто (Шкала)";
+"settings.splitMode.equal" = "50 / 50";
+"settings.language.label" = "Язык приложения";
+"settings.language.system" = "Системный по умолчанию";
+"settings.language.en" = "English";
+"settings.language.ptBR" = "Português (Brasil)";
+"settings.language.es" = "Español";
+"settings.language.fr" = "Français";
+"settings.language.de" = "Deutsch";
+"settings.language.it" = "Italiano";
+"settings.language.nl" = "Nederlands";
+"settings.language.tr" = "Türkçe";
+"settings.language.ru" = "Русский";
+"settings.language.ja" = "日本語";
+"settings.language.ko" = "한국어";
+"settings.language.zhHans" = "简体中文";
+"settings.language.nav.title" = "Язык приложения";
+"settings.language.helper" = "Выберите язык интерфейса приложения.";
+"settings.scale.section" = "Значения шкалы";
+"settings.about.section" = "О приложении";
+"settings.about.link" = "Об этом приложении";
+"settings.nav.title" = "Настройки";
+
+"addExpense.nav.title" = "Добавить расход";
+"addExpense.noPeople" = "Добавьте хотя бы одного человека в Настройках.";
+"addExpense.section.title" = "Добавить расход";
+"addExpense.paidBy" = "Оплатил";
+"addExpense.amount.placeholder" = "Сумма";
+"addExpense.name.placeholder" = "Название расхода";
+"addExpense.button" = "Добавить расход";
+"addExpense.selectedPersonFallback" = "Выбранный человек";
+"addExpense.expenseFallback" = "Расход";
+"addExpense.success.message" = "%1$@ добавлен(а) для %2$@.\nДобавленная сумма: %3$@.\nНовый итог для %2$@: %4$@.";
+
+"upgrade.people.limit.reason" = "Бесплатная версия поддерживает до 2 человек. Обновитесь до Full, чтобы добавить больше.";
+"upgrade.expenses.limit.reason" = "Бесплатная версия позволяет только 1 расход на человека. Обновитесь до Full для безлимита.";
+"upgrade.full.section" = "Amor&Contas Full";
+"upgrade.unlimited.description" = "Откройте безлимит по людям и расходам на человека.";
+"upgrade.active" = "Версия Full активна";
+"upgrade.buy" = "Купить Full версию";
+"upgrade.restore" = "Восстановить покупки";
+"upgrade.loadingProduct" = "Загрузка продукта...";
+"upgrade.nav.title" = "Обновление";
+
+"about.what.title" = "Что такое Amor&Contas?";
+"about.what.text" = "Amor&Contas помогает парам делить общие расходы прозрачно, справедливо и с меньшим стрессом.";
+"about.why.title" = "Зачем создано это приложение";
+"about.why.text" = "Цель — уменьшить путаницу и напряжение при разделении счетов.";
+"about.when5050.title" = "Когда использовать 50/50";
+"about.when5050.text" = "Используйте 50/50, когда оба хотят делить поровну независимо от дохода.";
+"about.automatic.title" = "Зачем использовать Авто (Шкала)";
+"about.automatic.text" = "Автоматический режим использует шкалу для пропорционального вклада каждого.";
+"about.suggestions.title" = "Советы по использованию";
+"about.suggestions.text" = "Добавляйте расходы сразу, проверяйте расчет раз в неделю и делитесь результатом до оплаты.";
+"about.nav.title" = "О Amor&Contas";
+"about.continue" = "Продолжить";
+
+"store.default.personA" = "Человек A";
+"store.default.personB" = "Человек B";
+"store.default.person" = "Человек";
+"store.default.expense" = "Расход";
+"store.addPerson.name" = "Человек %d";
+"store.settlement.balanced" = "Все сбалансировано! Все готово ❤️";
+"store.settlement.transfer" = "%1$@ должен(на) перевести %2$@ пользователю %3$@.";
+"store.settlement.pays" = "%1$@ платит %2$@";
+"store.settlement.receives" = "%1$@ получает %2$@";
+
+"purchase.debug.enabled" = "DEBUG-сборка: Full версия включена автоматически.";
+"purchase.product.loadFail" = "Сейчас не удалось загрузить варианты покупки.";
+"purchase.full.unavailable" = "Full версия сейчас недоступна.";
+"purchase.debug.noPurchase" = "DEBUG-сборка: Full версия включена без покупки.";
+"purchase.full.activated" = "Full версия активирована ✅";
+"purchase.pending" = "Покупка ожидает подтверждения.";
+"purchase.unexpected" = "Неожиданный результат покупки.";
+"purchase.failed" = "Ошибка покупки. Попробуйте снова.";
+"purchase.debug.restored" = "DEBUG-сборка: Full версия восстановлена автоматически.";
+"purchase.restored" = "Покупки восстановлены ✅";
+"purchase.noPrevious" = "Предыдущая покупка Full не найдена.";
+"purchase.restore.failed" = "Сейчас не удалось восстановить покупки.";
+
+"addExpense.preview.title" = "Предпросмотр";
+"addExpense.preview.share" = "Доля этой траты:";
+"addExpense.preview.totalAfter" = "Итого после добавления:";

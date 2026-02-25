@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">Romantic budget summary</string>
+    <string name="summary_paid">%s paid</string>
+    <string name="summary_total">Total</string>
+    <string name="summary_fairshare">Fair share of %s</string>
+
+    <string name="division_section_title">Division</string>
+    <string name="division_share">%s share</string>
+
+    <string name="settlement_section_title">Settlement</string>
+    <string name="settlement_copy">Copy settlement</string>
+    <string name="settlement_share">Share settlement</string>
+    <string name="settlement_signature">\n\n— Shared from Amor&amp;Contas 💗</string>
+    <string name="settings_settlementdetailed_toggle">Detailed settlement</string>
+    <string name="settlement_detail_empty">No settlement details available yet.</string>
+    <string name="settlement_detail_title">Detailed breakdown</string>
+    <string name="settlement_detail_total">Total expenses: %s</string>
+    <string name="settlement_detail_mode_scale">Mode: Automatic (Scale) • Total scale = %s</string>
+    <string name="settlement_detail_mode_equal">Mode: Equal split • %d people</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">Paid: %s</string>
+    <string name="settlement_detail_person_shareshape">Fair share = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">Fair share = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">Balance = %s - %s = 0.00 (balanced)</string>
+    <string name="settlement_detail_person_balance_owes">Balance = %s - %s = -%s (owes)</string>
+    <string name="settlement_detail_person_balance_receives">Balance = %s - %s = +%s (receives)</string>
+    <string name="settlement_detail_result_title">Settlement result</string>
+
+    <string name="alert_copied_title">Copied</string>
+    <string name="alert_settlementcopied_message">Settlement text copied successfully.</string>
+    <string name="alert_expenseadded_title">Expense added</string>
+    <string name="alert_invalidamount_title">Invalid amount</string>
+    <string name="alert_invalidamount_message">Enter an amount greater than 0 to add an expense.</string>
+
+    <string name="common_ok">OK</string>
+    <string name="common_close">Close</string>
+
+    <string name="expenses_section_title">Expenses for %s</string>
+    <string name="expenses_empty">No expenses added.</string>
+
+    <string name="settings_people_section">People</string>
+    <string name="settings_name_placeholder">Name</string>
+    <string name="settings_addperson">Add person</string>
+    <string name="settings_section_title">Settings</string>
+    <string name="settings_currency_label">Currency symbol (ex: $, €)</string>
+    <string name="settings_currency_placeholder">$</string>
+    <string name="settings_splitmode_label">Split mode</string>
+    <string name="settings_splitmode_automatic">Automatic (Scale)</string>
+    <string name="settings_splitmode_equal">50 / 50</string>
+    <string name="settings_language_label">App language</string>
+    <string name="settings_language_system">System default</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_ptbr">Português (Brasil)</string>
+    <string name="settings_language_es">Español</string>
+    <string name="settings_language_fr">Français</string>
+    <string name="settings_language_de">Deutsch</string>
+    <string name="settings_language_it">Italiano</string>
+    <string name="settings_language_nl">Nederlands</string>
+    <string name="settings_language_tr">Türkçe</string>
+    <string name="settings_language_ru">Русский</string>
+    <string name="settings_language_ja">日本語</string>
+    <string name="settings_language_ko">한국어</string>
+    <string name="settings_language_zhhans">简体中文</string>
+    <string name="settings_language_nav_title">App language</string>
+    <string name="settings_language_helper">Choose the language used inside the app.</string>
+    <string name="settings_scale_section">Scale values</string>
+    <string name="settings_about_section">About</string>
+    <string name="settings_about_link">About this app</string>
+    <string name="settings_nav_title">Settings</string>
+
+    <string name="addexpense_nav_title">Add expense</string>
+    <string name="addexpense_nopeople">Add at least one person in Settings.</string>
+    <string name="addexpense_section_title">Add expense</string>
+    <string name="addexpense_paidby">Paid by</string>
+    <string name="addexpense_amount_placeholder">Amount</string>
+    <string name="addexpense_name_placeholder">Expense name</string>
+    <string name="addexpense_button">Add expense</string>
+    <string name="addexpense_selectedpersonfallback">Selected person</string>
+    <string name="addexpense_expensefallback">Expense</string>
+    <string name="addexpense_success_message">%1$s was added for %2$s.\nAdded amount: %3$s.\nNew total for %2$s: %4$s.</string>
+
+    <string name="upgrade_people_limit_reason">The free version supports up to 2 people. Upgrade to Full to add more people.</string>
+    <string name="upgrade_expenses_limit_reason">The free version allows only 1 expense per person. Upgrade to Full for unlimited expenses.</string>
+    <string name="upgrade_full_section">Amor&amp;Contas Full</string>
+    <string name="upgrade_unlimited_description">Unlock unlimited people and unlimited expenses per person.</string>
+    <string name="upgrade_active">Full version is active</string>
+    <string name="upgrade_buy">Buy Full Version</string>
+    <string name="upgrade_restore">Restore Purchases</string>
+    <string name="upgrade_loadingproduct">Loading product...</string>
+    <string name="upgrade_nav_title">Upgrade</string>
+
+    <string name="about_what_title">What is Amor&amp;Contas?</string>
+    <string name="about_what_text">Amor&amp;Contas helps couples split shared expenses with clarity, fairness, and less stress in day-to-day money conversations.</string>
+    <string name="about_why_title">Why this app was built</string>
+    <string name="about_why_text">The goal is to avoid confusion and friction when splitting bills by making totals, fair share, and settlement simple to understand.</string>
+    <string name="about_when5050_title">When to use 50/50</string>
+    <string name="about_when5050_text">Use 50/50 when both people want equal contribution regardless of earnings. It is fast, predictable, and great for simple routines.</string>
+    <string name="about_automatic_title">Why use Automatic (Scale)</string>
+    <string name="about_automatic_text">Automatic mode uses scale values so each person contributes proportionally. If you set the net income of each person as the scale, both pay the same burden relative to income—almost like paying with work time instead of just money.</string>
+    <string name="about_suggestions_title">Usage suggestions</string>
+    <string name="about_suggestions_text">Register expenses as they happen, review settlement weekly, and share the result before paying to keep both sides aligned.</string>
+    <string name="about_nav_title">About Amor&amp;Contas</string>
+    <string name="about_continue">Continue</string>
+
+    <string name="store_default_persona">Person A</string>
+    <string name="store_default_personb">Person B</string>
+    <string name="store_default_person">Person</string>
+    <string name="store_default_expense">Expense</string>
+    <string name="store_addperson_name">Person %d</string>
+    <string name="store_settlement_balanced">Everything is balanced! You are all set ❤️</string>
+    <string name="store_settlement_transfer">%1$s should transfer %2$s to %3$s.</string>
+    <string name="store_settlement_pays">%1$s pays %2$s</string>
+    <string name="store_settlement_receives">%1$s receives %2$s</string>
+
+    <string name="purchase_debug_enabled">DEBUG build: Full version enabled automatically.</string>
+    <string name="purchase_product_loadfail">Could not load purchase options right now.</string>
+    <string name="purchase_full_unavailable">Full version is currently unavailable.</string>
+    <string name="purchase_debug_nopurchase">DEBUG build: Full version enabled without purchase.</string>
+    <string name="purchase_full_activated">Full version activated ✅</string>
+    <string name="purchase_pending">Purchase is pending approval.</string>
+    <string name="purchase_unexpected">Unexpected purchase result.</string>
+    <string name="purchase_failed">Purchase failed. Please try again.</string>
+    <string name="purchase_debug_restored">DEBUG build: Full version restored automatically.</string>
+    <string name="purchase_restored">Purchases restored ✅</string>
+    <string name="purchase_noprevious">No previous full purchase was found.</string>
+    <string name="purchase_restore_failed">Could not restore purchases right now.</string>
+
+    <string name="app_name">Amor&amp;Contas</string>
+</resources>

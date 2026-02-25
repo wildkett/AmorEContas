@@ -1,0 +1,129 @@
+"summary.section.title" = "커플 예산 요약";
+"summary.paid" = "%@ 결제";
+"summary.total" = "총합";
+"summary.fairShare" = "%@의 공정 분담";
+
+"division.section.title" = "분담";
+"division.share" = "%@의 분담";
+
+"settlement.section.title" = "정산";
+"settlement.copy" = "정산 내용 복사";
+"settlement.share" = "정산 내용 공유";
+"settlement.signature" = "\n\n— Amor&Contas에서 공유 💗";
+"settings.settlementDetailed.toggle" = "상세 정산";
+"settlement.detail.empty" = "아직 정산 상세 내역이 없습니다.";
+"settlement.detail.title" = "상세 계산 내역";
+"settlement.detail.total" = "총지출: %@";
+"settlement.detail.mode.scale" = "모드: 자동(스케일) • 총 스케일 = %@";
+"settlement.detail.mode.equal" = "모드: 균등 분담 • %d명";
+"settlement.detail.person.header" = "%@";
+"settlement.detail.person.paid" = "지불: %@";
+"settlement.detail.person.shareScale" = "공정 분담 = %@ × (%@ / %@) = %@";
+"settlement.detail.person.shareEqual" = "공정 분담 = %@ / %d = %@";
+"settlement.detail.person.balance.neutral" = "잔액 = %@ - %@ = 0.00 (균형)";
+"settlement.detail.person.balance.owes" = "잔액 = %@ - %@ = -%@ (지불 필요)";
+"settlement.detail.person.balance.receives" = "잔액 = %@ - %@ = +%@ (수령)";
+"settlement.detail.result.title" = "정산 결과";
+
+"alert.copied.title" = "복사됨";
+"alert.settlementCopied.message" = "정산 문구가 복사되었습니다.";
+"alert.expenseAdded.title" = "지출 추가됨";
+"alert.invalidAmount.title" = "유효하지 않은 금액";
+"alert.invalidAmount.message" = "지출을 추가하려면 0보다 큰 금액을 입력하세요.";
+
+"common.ok" = "확인";
+"common.close" = "닫기";
+
+"expenses.section.title" = "%@의 지출";
+"expenses.empty" = "추가된 지출이 없습니다.";
+
+"settings.people.section" = "사람";
+"settings.name.placeholder" = "이름";
+"settings.addPerson" = "사람 추가";
+"settings.section.title" = "설정";
+"settings.currency.label" = "통화 기호 (예: $, €)";
+"settings.currency.placeholder" = "$";
+"settings.splitMode.label" = "분담 방식";
+"settings.splitMode.automatic" = "자동(스케일)";
+"settings.splitMode.equal" = "50 / 50";
+"settings.language.label" = "앱 언어";
+"settings.language.system" = "시스템 기본값";
+"settings.language.en" = "English";
+"settings.language.ptBR" = "Português (Brasil)";
+"settings.language.es" = "Español";
+"settings.language.fr" = "Français";
+"settings.language.de" = "Deutsch";
+"settings.language.it" = "Italiano";
+"settings.language.nl" = "Nederlands";
+"settings.language.tr" = "Türkçe";
+"settings.language.ru" = "Русский";
+"settings.language.ja" = "日本語";
+"settings.language.ko" = "한국어";
+"settings.language.zhHans" = "简体中文";
+"settings.language.nav.title" = "앱 언어";
+"settings.language.helper" = "앱에서 사용할 언어를 선택하세요.";
+"settings.scale.section" = "스케일 값";
+"settings.about.section" = "앱 정보";
+"settings.about.link" = "이 앱 정보";
+"settings.nav.title" = "설정";
+
+"addExpense.nav.title" = "지출 추가";
+"addExpense.noPeople" = "설정에서 최소 한 명을 추가하세요.";
+"addExpense.section.title" = "지출 추가";
+"addExpense.paidBy" = "결제자";
+"addExpense.amount.placeholder" = "금액";
+"addExpense.name.placeholder" = "지출 이름";
+"addExpense.button" = "지출 추가";
+"addExpense.selectedPersonFallback" = "선택된 사람";
+"addExpense.expenseFallback" = "지출";
+"addExpense.success.message" = "%1$@ 항목이 %2$@에게 추가되었습니다.\n추가 금액: %3$@.\n%2$@의 새 총액: %4$@.";
+
+"upgrade.people.limit.reason" = "무료 버전은 최대 2명까지 지원합니다. 더 추가하려면 Full로 업그레이드하세요.";
+"upgrade.expenses.limit.reason" = "무료 버전은 1인당 지출 1건만 허용합니다. 무제한 사용을 위해 Full로 업그레이드하세요.";
+"upgrade.full.section" = "Amor&Contas Full";
+"upgrade.unlimited.description" = "인원 무제한 및 1인당 지출 무제한을 해제하세요.";
+"upgrade.active" = "Full 버전이 활성화되었습니다";
+"upgrade.buy" = "Full 버전 구매";
+"upgrade.restore" = "구매 복원";
+"upgrade.loadingProduct" = "상품 불러오는 중...";
+"upgrade.nav.title" = "업그레이드";
+
+"about.what.title" = "Amor&Contas란?";
+"about.what.text" = "Amor&Contas는 커플이 공동 지출을 더 명확하고 공정하게 나누고, 일상적인 돈 관련 대화를 덜 스트레스 있게 하도록 돕습니다.";
+"about.why.title" = "앱을 만든 이유";
+"about.why.text" = "청구서를 나눌 때 생기는 혼란과 마찰을 줄이기 위해, 총액·공정 분담·정산을 쉽게 이해할 수 있게 만들었습니다.";
+"about.when5050.title" = "50/50을 사용할 때";
+"about.when5050.text" = "소득과 관계없이 동일하게 부담하고 싶을 때 50/50을 사용하세요. 빠르고 예측 가능하며 단순한 루틴에 좋습니다.";
+"about.automatic.title" = "자동(스케일)을 쓰는 이유";
+"about.automatic.text" = "자동 모드는 스케일 값에 따라 비례 분담합니다. 각자의 순소득을 스케일로 설정하면 소득 대비 부담이 비슷해져, 단순 금액이 아닌 ‘노동 시간’에 가까운 방식으로 분담할 수 있습니다.";
+"about.suggestions.title" = "사용 팁";
+"about.suggestions.text" = "지출이 생길 때마다 기록하고, 매주 정산을 검토하며, 결제 전에 결과를 공유하면 두 사람의 기준을 맞추기 쉽습니다.";
+"about.nav.title" = "Amor&Contas 정보";
+"about.continue" = "계속";
+
+"store.default.personA" = "사람 A";
+"store.default.personB" = "사람 B";
+"store.default.person" = "사람";
+"store.default.expense" = "지출";
+"store.addPerson.name" = "사람 %d";
+"store.settlement.balanced" = "모든 금액이 균형을 이룹니다! 준비 완료 ❤️";
+"store.settlement.transfer" = "%1$@님이 %3$@님에게 %2$@을(를) 보내야 합니다.";
+"store.settlement.pays" = "%1$@ 지불 %2$@";
+"store.settlement.receives" = "%1$@ 수령 %2$@";
+
+"purchase.debug.enabled" = "DEBUG 빌드: Full 버전이 자동으로 활성화되었습니다.";
+"purchase.product.loadFail" = "현재 구매 옵션을 불러올 수 없습니다.";
+"purchase.full.unavailable" = "현재 Full 버전을 사용할 수 없습니다.";
+"purchase.debug.noPurchase" = "DEBUG 빌드: 구매 없이 Full 버전이 활성화되었습니다.";
+"purchase.full.activated" = "Full 버전 활성화 완료 ✅";
+"purchase.pending" = "구매 승인 대기 중입니다.";
+"purchase.unexpected" = "예상치 못한 구매 결과입니다.";
+"purchase.failed" = "구매에 실패했습니다. 다시 시도하세요.";
+"purchase.debug.restored" = "DEBUG 빌드: Full 버전이 자동으로 복원되었습니다.";
+"purchase.restored" = "구매가 복원되었습니다 ✅";
+"purchase.noPrevious" = "이전에 구매한 Full 버전을 찾을 수 없습니다.";
+"purchase.restore.failed" = "현재 구매를 복원할 수 없습니다.";
+
+"addExpense.preview.title" = "미리보기";
+"addExpense.preview.share" = "이 비용에서의 몫:";
+"addExpense.preview.totalAfter" = "추가 후 합계:";

@@ -1,0 +1,129 @@
+"summary.section.title" = "カップル予算の概要";
+"summary.paid" = "%@ の支払い";
+"summary.total" = "合計";
+"summary.fairShare" = "%@ の公平負担";
+
+"division.section.title" = "分担";
+"division.share" = "%@ の負担割合";
+
+"settlement.section.title" = "精算";
+"settlement.copy" = "精算内容をコピー";
+"settlement.share" = "精算内容を共有";
+"settlement.signature" = "\n\n— Amor&Contas から共有 💗";
+"settings.settlementDetailed.toggle" = "詳細な精算";
+"settlement.detail.empty" = "精算の詳細はまだありません。";
+"settlement.detail.title" = "計算の内訳";
+"settlement.detail.total" = "総支出: %@";
+"settlement.detail.mode.scale" = "モード: 自動（スケール） • 合計スケール = %@";
+"settlement.detail.mode.equal" = "モード: 均等割り • %d 人";
+"settlement.detail.person.header" = "%@";
+"settlement.detail.person.paid" = "支払い: %@";
+"settlement.detail.person.shareScale" = "公平負担 = %@ × (%@ / %@) = %@";
+"settlement.detail.person.shareEqual" = "公平負担 = %@ / %d = %@";
+"settlement.detail.person.balance.neutral" = "差額 = %@ - %@ = 0.00（均衡）";
+"settlement.detail.person.balance.owes" = "差額 = %@ - %@ = -%@（支払う）";
+"settlement.detail.person.balance.receives" = "差額 = %@ - %@ = +%@（受け取る）";
+"settlement.detail.result.title" = "精算結果";
+
+"alert.copied.title" = "コピー完了";
+"alert.settlementCopied.message" = "精算テキストをコピーしました。";
+"alert.expenseAdded.title" = "支出を追加しました";
+"alert.invalidAmount.title" = "金額が無効です";
+"alert.invalidAmount.message" = "支出を追加するには 0 より大きい金額を入力してください。";
+
+"common.ok" = "OK";
+"common.close" = "閉じる";
+
+"expenses.section.title" = "%@ の支出";
+"expenses.empty" = "支出はまだありません。";
+
+"settings.people.section" = "メンバー";
+"settings.name.placeholder" = "名前";
+"settings.addPerson" = "メンバーを追加";
+"settings.section.title" = "設定";
+"settings.currency.label" = "通貨記号（例: $, €）";
+"settings.currency.placeholder" = "$";
+"settings.splitMode.label" = "分担モード";
+"settings.splitMode.automatic" = "自動（スケール）";
+"settings.splitMode.equal" = "50 / 50";
+"settings.language.label" = "アプリの言語";
+"settings.language.system" = "システムのデフォルト";
+"settings.language.en" = "English";
+"settings.language.ptBR" = "Português (Brasil)";
+"settings.language.es" = "Español";
+"settings.language.fr" = "Français";
+"settings.language.de" = "Deutsch";
+"settings.language.it" = "Italiano";
+"settings.language.nl" = "Nederlands";
+"settings.language.tr" = "Türkçe";
+"settings.language.ru" = "Русский";
+"settings.language.ja" = "日本語";
+"settings.language.ko" = "한국어";
+"settings.language.zhHans" = "简体中文";
+"settings.language.nav.title" = "アプリの言語";
+"settings.language.helper" = "アプリ内で使用する言語を選択してください。";
+"settings.scale.section" = "スケール値";
+"settings.about.section" = "このアプリについて";
+"settings.about.link" = "アプリの説明";
+"settings.nav.title" = "設定";
+
+"addExpense.nav.title" = "支出を追加";
+"addExpense.noPeople" = "設定で少なくとも 1 人追加してください。";
+"addExpense.section.title" = "支出を追加";
+"addExpense.paidBy" = "支払った人";
+"addExpense.amount.placeholder" = "金額";
+"addExpense.name.placeholder" = "支出名";
+"addExpense.button" = "支出を追加";
+"addExpense.selectedPersonFallback" = "選択中の人";
+"addExpense.expenseFallback" = "支出";
+"addExpense.success.message" = "%1$@ を %2$@ に追加しました。\n追加金額: %3$@。\n%2$@ の新しい合計: %4$@。";
+
+"upgrade.people.limit.reason" = "無料版は最大 2 人までです。さらに追加するには Full にアップグレードしてください。";
+"upgrade.expenses.limit.reason" = "無料版では 1 人あたり 1 件の支出までです。無制限にするには Full にアップグレードしてください。";
+"upgrade.full.section" = "Amor&Contas Full";
+"upgrade.unlimited.description" = "人数無制限・1人あたり支出無制限を解放。";
+"upgrade.active" = "Full 版が有効です";
+"upgrade.buy" = "Full 版を購入";
+"upgrade.restore" = "購入を復元";
+"upgrade.loadingProduct" = "商品を読み込み中...";
+"upgrade.nav.title" = "アップグレード";
+
+"about.what.title" = "Amor&Contas とは？";
+"about.what.text" = "Amor&Contas は、カップルの共有支出をわかりやすく、公平に、日々のお金の会話をよりスムーズにするためのアプリです。";
+"about.why.title" = "このアプリを作った理由";
+"about.why.text" = "請求の分担時の混乱や摩擦を減らし、合計・公平負担・精算を直感的に理解できるようにすることが目的です。";
+"about.when5050.title" = "50/50 を使う場面";
+"about.when5050.text" = "収入差に関係なく同額で分担したいときに 50/50 を使います。シンプルで予測しやすく、日常運用に向いています。";
+"about.automatic.title" = "自動（スケール）を使う理由";
+"about.automatic.text" = "自動モードはスケール値に応じて比例分担します。各自の手取り収入をスケールにすると、収入に対する負担感が近づき、金額だけでなく“労働時間”に近い感覚で分担できます。";
+"about.suggestions.title" = "使い方のヒント";
+"about.suggestions.text" = "支出はその都度記録し、毎週精算を確認し、支払い前に結果を共有すると、2人の認識を揃えやすくなります。";
+"about.nav.title" = "Amor&Contas について";
+"about.continue" = "続ける";
+
+"store.default.personA" = "メンバーA";
+"store.default.personB" = "メンバーB";
+"store.default.person" = "メンバー";
+"store.default.expense" = "支出";
+"store.addPerson.name" = "メンバー %d";
+"store.settlement.balanced" = "すべてバランスしています！準備完了です ❤️";
+"store.settlement.transfer" = "%1$@ は %3$@ に %2$@ を送金してください。";
+"store.settlement.pays" = "%1$@ が %2$@ 支払う";
+"store.settlement.receives" = "%1$@ が %2$@ 受け取る";
+
+"purchase.debug.enabled" = "DEBUG ビルド: Full 版を自動で有効化しました。";
+"purchase.product.loadFail" = "現在、購入オプションを読み込めませんでした。";
+"purchase.full.unavailable" = "現在 Full 版は利用できません。";
+"purchase.debug.noPurchase" = "DEBUG ビルド: 購入なしで Full 版を有効化しました。";
+"purchase.full.activated" = "Full 版を有効化しました ✅";
+"purchase.pending" = "購入は承認待ちです。";
+"purchase.unexpected" = "予期しない購入結果です。";
+"purchase.failed" = "購入に失敗しました。もう一度お試しください。";
+"purchase.debug.restored" = "DEBUG ビルド: Full 版を自動で復元しました。";
+"purchase.restored" = "購入を復元しました ✅";
+"purchase.noPrevious" = "以前の Full 購入は見つかりませんでした。";
+"purchase.restore.failed" = "現在、購入を復元できませんでした。";
+
+"addExpense.preview.title" = "プレビュー";
+"addExpense.preview.share" = "この支出の割合：";
+"addExpense.preview.totalAfter" = "追加後の合計：";

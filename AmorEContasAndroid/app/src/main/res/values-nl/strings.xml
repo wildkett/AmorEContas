@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">Overzicht van het koppelbudget</string>
+    <string name="summary_paid">%s heeft betaald</string>
+    <string name="summary_total">Totaal</string>
+    <string name="summary_fairshare">Eerlijk aandeel van %s</string>
+    <string name="division_section_title">Verdeling</string>
+    <string name="division_share">Aandeel van %s</string>
+    <string name="settlement_section_title">Vereffening</string>
+    <string name="settlement_copy">Vereffening kopiëren</string>
+    <string name="settlement_share">Vereffening delen</string>
+    <string name="settlement_signature">\n\n— Gedeeld vanuit Amor&amp;Contas 💗</string>
+    <string name="settings_settlementdetailed_toggle">Gedetailleerde vereffening</string>
+    <string name="settlement_detail_empty">Nog geen vereffeningsdetails beschikbaar.</string>
+    <string name="settlement_detail_title">Gedetailleerde uitsplitsing</string>
+    <string name="settlement_detail_total">Totale uitgaven: %s</string>
+    <string name="settlement_detail_mode_scale">Modus: Automatisch (Schaal) • Totale schaal = %s</string>
+    <string name="settlement_detail_mode_equal">Modus: Gelijke verdeling • %d personen</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">Betaald: %s</string>
+    <string name="settlement_detail_person_shareshape">Eerlijk aandeel = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">Eerlijk aandeel = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">Saldo = %s - %s = 0.00 (in balans)</string>
+    <string name="settlement_detail_person_balance_owes">Saldo = %s - %s = -%s (moet betalen)</string>
+    <string name="settlement_detail_person_balance_receives">Saldo = %s - %s = +%s (ontvangt)</string>
+    <string name="settlement_detail_result_title">Resultaat van vereffening</string>
+    <string name="alert_copied_title">Gekopieerd</string>
+    <string name="alert_settlementcopied_message">Vereffeningstekst succesvol gekopieerd.</string>
+    <string name="alert_expenseadded_title">Uitgave toegevoegd</string>
+    <string name="alert_invalidamount_title">Ongeldig bedrag</string>
+    <string name="alert_invalidamount_message">Voer een bedrag groter dan 0 in om een uitgave toe te voegen.</string>
+</resources>

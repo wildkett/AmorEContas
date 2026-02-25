@@ -1,0 +1,129 @@
+"summary.section.title" = "Resumen del presupuesto en pareja";
+"summary.paid" = "%@ pagó";
+"summary.total" = "Total";
+"summary.fairShare" = "Parte justa de %@";
+
+"division.section.title" = "División";
+"division.share" = "Parte de %@";
+
+"settlement.section.title" = "Liquidación";
+"settlement.copy" = "Copiar liquidación";
+"settlement.share" = "Compartir liquidación";
+"settlement.signature" = "\n\n— Compartido desde Amor&Contas 💗";
+"settings.settlementDetailed.toggle" = "Liquidación detallada";
+"settlement.detail.empty" = "Aún no hay detalles de liquidación disponibles.";
+"settlement.detail.title" = "Desglose detallado";
+"settlement.detail.total" = "Gastos totales: %@";
+"settlement.detail.mode.scale" = "Modo: Automático (Escala) • Escala total = %@";
+"settlement.detail.mode.equal" = "Modo: División igual • %d personas";
+"settlement.detail.person.header" = "%@";
+"settlement.detail.person.paid" = "Pagado: %@";
+"settlement.detail.person.shareScale" = "Parte justa = %@ × (%@ / %@) = %@";
+"settlement.detail.person.shareEqual" = "Parte justa = %@ / %d = %@";
+"settlement.detail.person.balance.neutral" = "Saldo = %@ - %@ = 0.00 (equilibrado)";
+"settlement.detail.person.balance.owes" = "Saldo = %@ - %@ = -%@ (debe)";
+"settlement.detail.person.balance.receives" = "Saldo = %@ - %@ = +%@ (recibe)";
+"settlement.detail.result.title" = "Resultado de la liquidación";
+
+"alert.copied.title" = "Copiado";
+"alert.settlementCopied.message" = "Texto de liquidación copiado correctamente.";
+"alert.expenseAdded.title" = "Gasto añadido";
+"alert.invalidAmount.title" = "Importe no válido";
+"alert.invalidAmount.message" = "Introduce un importe mayor que 0 para añadir un gasto.";
+
+"common.ok" = "OK";
+"common.close" = "Cerrar";
+
+"expenses.section.title" = "Gastos de %@";
+"expenses.empty" = "No hay gastos añadidos.";
+
+"settings.people.section" = "Personas";
+"settings.name.placeholder" = "Nombre";
+"settings.addPerson" = "Añadir persona";
+"settings.section.title" = "Ajustes";
+"settings.currency.label" = "Símbolo de moneda (ej: $, €)";
+"settings.currency.placeholder" = "$";
+"settings.splitMode.label" = "Modo de división";
+"settings.splitMode.automatic" = "Automático (Escala)";
+"settings.splitMode.equal" = "50 / 50";
+"settings.language.label" = "Idioma de la app";
+"settings.language.system" = "Predeterminado del sistema";
+"settings.language.en" = "English";
+"settings.language.ptBR" = "Português (Brasil)";
+"settings.language.es" = "Español";
+"settings.language.fr" = "Français";
+"settings.language.de" = "Deutsch";
+"settings.language.it" = "Italiano";
+"settings.language.nl" = "Nederlands";
+"settings.language.tr" = "Türkçe";
+"settings.language.ru" = "Русский";
+"settings.language.ja" = "日本語";
+"settings.language.ko" = "한국어";
+"settings.language.zhHans" = "简体中文";
+"settings.language.nav.title" = "Idioma de la app";
+"settings.language.helper" = "Elige el idioma usado dentro de la app.";
+"settings.scale.section" = "Valores de escala";
+"settings.about.section" = "Acerca de";
+"settings.about.link" = "Acerca de esta app";
+"settings.nav.title" = "Ajustes";
+
+"addExpense.nav.title" = "Añadir gasto";
+"addExpense.noPeople" = "Añade al menos una persona en Ajustes.";
+"addExpense.section.title" = "Añadir gasto";
+"addExpense.paidBy" = "Pagado por";
+"addExpense.amount.placeholder" = "Importe";
+"addExpense.name.placeholder" = "Nombre del gasto";
+"addExpense.button" = "Añadir gasto";
+"addExpense.selectedPersonFallback" = "Persona seleccionada";
+"addExpense.expenseFallback" = "Gasto";
+"addExpense.success.message" = "%1$@ se añadió para %2$@.\nImporte añadido: %3$@.\nNuevo total de %2$@: %4$@.";
+
+"upgrade.people.limit.reason" = "La versión gratuita permite hasta 2 personas. Actualiza a Full para añadir más personas.";
+"upgrade.expenses.limit.reason" = "La versión gratuita permite solo 1 gasto por persona. Actualiza a Full para gastos ilimitados.";
+"upgrade.full.section" = "Amor&Contas Full";
+"upgrade.unlimited.description" = "Desbloquea personas ilimitadas y gastos ilimitados por persona.";
+"upgrade.active" = "La versión Full está activa";
+"upgrade.buy" = "Comprar versión Full";
+"upgrade.restore" = "Restaurar compras";
+"upgrade.loadingProduct" = "Cargando producto...";
+"upgrade.nav.title" = "Actualizar";
+
+"about.what.title" = "¿Qué es Amor&Contas?";
+"about.what.text" = "Amor&Contas ayuda a las parejas a dividir gastos compartidos con claridad, justicia y menos estrés en las conversaciones diarias sobre dinero.";
+"about.why.title" = "Por qué se creó esta app";
+"about.why.text" = "El objetivo es evitar confusión y fricción al dividir cuentas, haciendo que el total, la parte justa y la liquidación sean fáciles de entender.";
+"about.when5050.title" = "Cuándo usar 50/50";
+"about.when5050.text" = "Usa 50/50 cuando ambos quieran contribuir por igual sin importar los ingresos. Es rápido, predecible e ideal para rutinas simples.";
+"about.automatic.title" = "Por qué usar Automático (Escala)";
+"about.automatic.text" = "El modo Automático usa valores de escala para que cada persona contribuya proporcionalmente. Si defines el ingreso neto de cada persona como escala, ambos asumen una carga similar respecto a sus ingresos, casi como pagar con tiempo de trabajo en lugar de solo dinero.";
+"about.suggestions.title" = "Sugerencias de uso";
+"about.suggestions.text" = "Registra los gastos cuando ocurran, revisa la liquidación cada semana y comparte el resultado antes de pagar para mantener a ambos alineados.";
+"about.nav.title" = "Acerca de Amor&Contas";
+"about.continue" = "Continuar";
+
+"store.default.personA" = "Persona A";
+"store.default.personB" = "Persona B";
+"store.default.person" = "Persona";
+"store.default.expense" = "Gasto";
+"store.addPerson.name" = "Persona %d";
+"store.settlement.balanced" = "¡Todo está equilibrado! Todo listo ❤️";
+"store.settlement.transfer" = "%1$@ debe transferir %2$@ a %3$@.";
+"store.settlement.pays" = "%1$@ paga %2$@";
+"store.settlement.receives" = "%1$@ recibe %2$@";
+
+"purchase.debug.enabled" = "Compilación DEBUG: versión Full activada automáticamente.";
+"purchase.product.loadFail" = "No se pudieron cargar las opciones de compra en este momento.";
+"purchase.full.unavailable" = "La versión Full no está disponible actualmente.";
+"purchase.debug.noPurchase" = "Compilación DEBUG: versión Full activada sin compra.";
+"purchase.full.activated" = "Versión Full activada ✅";
+"purchase.pending" = "La compra está pendiente de aprobación.";
+"purchase.unexpected" = "Resultado de compra inesperado.";
+"purchase.failed" = "La compra falló. Inténtalo de nuevo.";
+"purchase.debug.restored" = "Compilación DEBUG: versión Full restaurada automáticamente.";
+"purchase.restored" = "Compras restauradas ✅";
+"purchase.noPrevious" = "No se encontró ninguna compra Full anterior.";
+"purchase.restore.failed" = "No se pudieron restaurar las compras en este momento.";
+
+"addExpense.preview.title" = "Vista previa";
+"addExpense.preview.share" = "Parte de este gasto:";
+"addExpense.preview.totalAfter" = "Total después de añadir:";

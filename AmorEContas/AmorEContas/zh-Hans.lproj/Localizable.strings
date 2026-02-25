@@ -1,0 +1,129 @@
+"summary.section.title" = "情侣预算概览";
+"summary.paid" = "%@ 已支付";
+"summary.total" = "总计";
+"summary.fairShare" = "%@ 的公平分摊";
+
+"division.section.title" = "分摊";
+"division.share" = "%@ 的占比";
+
+"settlement.section.title" = "结算";
+"settlement.copy" = "复制结算";
+"settlement.share" = "分享结算";
+"settlement.signature" = "\n\n— 来自 Amor&Contas 的分享 💗";
+"settings.settlementDetailed.toggle" = "详细结算";
+"settlement.detail.empty" = "暂时没有可用的结算明细。";
+"settlement.detail.title" = "详细计算说明";
+"settlement.detail.total" = "总支出：%@";
+"settlement.detail.mode.scale" = "模式：自动（比例） • 总比例值 = %@";
+"settlement.detail.mode.equal" = "模式：平均分摊 • %d 人";
+"settlement.detail.person.header" = "%@";
+"settlement.detail.person.paid" = "已支付：%@";
+"settlement.detail.person.shareScale" = "公平分摊 = %@ × (%@ / %@) = %@";
+"settlement.detail.person.shareEqual" = "公平分摊 = %@ / %d = %@";
+"settlement.detail.person.balance.neutral" = "余额 = %@ - %@ = 0.00（已平衡）";
+"settlement.detail.person.balance.owes" = "余额 = %@ - %@ = -%@（应支付）";
+"settlement.detail.person.balance.receives" = "余额 = %@ - %@ = +%@（应收取）";
+"settlement.detail.result.title" = "结算结果";
+
+"alert.copied.title" = "已复制";
+"alert.settlementCopied.message" = "结算文本复制成功。";
+"alert.expenseAdded.title" = "已添加支出";
+"alert.invalidAmount.title" = "金额无效";
+"alert.invalidAmount.message" = "请输入大于 0 的金额以添加支出。";
+
+"common.ok" = "确定";
+"common.close" = "关闭";
+
+"expenses.section.title" = "%@ 的支出";
+"expenses.empty" = "尚未添加支出。";
+
+"settings.people.section" = "成员";
+"settings.name.placeholder" = "姓名";
+"settings.addPerson" = "添加成员";
+"settings.section.title" = "设置";
+"settings.currency.label" = "货币符号（例如：$, €）";
+"settings.currency.placeholder" = "$";
+"settings.splitMode.label" = "分摊模式";
+"settings.splitMode.automatic" = "自动（比例）";
+"settings.splitMode.equal" = "50 / 50";
+"settings.language.label" = "应用语言";
+"settings.language.system" = "跟随系统";
+"settings.language.en" = "English";
+"settings.language.ptBR" = "Português (Brasil)";
+"settings.language.es" = "Español";
+"settings.language.fr" = "Français";
+"settings.language.de" = "Deutsch";
+"settings.language.it" = "Italiano";
+"settings.language.nl" = "Nederlands";
+"settings.language.tr" = "Türkçe";
+"settings.language.ru" = "Русский";
+"settings.language.ja" = "日本語";
+"settings.language.ko" = "한국어";
+"settings.language.zhHans" = "简体中文";
+"settings.language.nav.title" = "应用语言";
+"settings.language.helper" = "选择应用内使用的语言。";
+"settings.scale.section" = "比例值";
+"settings.about.section" = "关于";
+"settings.about.link" = "关于此应用";
+"settings.nav.title" = "设置";
+
+"addExpense.nav.title" = "添加支出";
+"addExpense.noPeople" = "请先在“设置”中至少添加一位成员。";
+"addExpense.section.title" = "添加支出";
+"addExpense.paidBy" = "付款人";
+"addExpense.amount.placeholder" = "金额";
+"addExpense.name.placeholder" = "支出名称";
+"addExpense.button" = "添加支出";
+"addExpense.selectedPersonFallback" = "已选成员";
+"addExpense.expenseFallback" = "支出";
+"addExpense.success.message" = "已为 %2$@ 添加 %1$@。\n新增金额：%3$@。\n%2$@ 的新总额：%4$@。";
+
+"upgrade.people.limit.reason" = "免费版最多支持 2 位成员。升级到 Full 以添加更多成员。";
+"upgrade.expenses.limit.reason" = "免费版每位成员仅可添加 1 条支出。升级到 Full 享受无限支出。";
+"upgrade.full.section" = "Amor&Contas Full";
+"upgrade.unlimited.description" = "解锁无限成员与每位成员无限支出。";
+"upgrade.active" = "Full 版本已激活";
+"upgrade.buy" = "购买 Full 版本";
+"upgrade.restore" = "恢复购买";
+"upgrade.loadingProduct" = "正在加载商品...";
+"upgrade.nav.title" = "升级";
+
+"about.what.title" = "什么是 Amor&Contas？";
+"about.what.text" = "Amor&Contas 帮助情侣更清晰、更公平地分摊共同支出，让日常金钱沟通更轻松。";
+"about.why.title" = "为什么开发这款应用";
+"about.why.text" = "目标是减少分账时的困惑与摩擦，让总额、公平分摊和结算都更易理解。";
+"about.when5050.title" = "何时使用 50/50";
+"about.when5050.text" = "当双方希望不考虑收入差异、平均分担时，可使用 50/50。它快速、可预期，适合简单场景。";
+"about.automatic.title" = "为什么使用自动（比例）";
+"about.automatic.text" = "自动模式使用比例值进行按比例分摊。若将双方净收入作为比例值，双方的收入负担会更接近，几乎像按“工作时间”而非仅按金额来分担。";
+"about.suggestions.title" = "使用建议";
+"about.suggestions.text" = "发生支出时及时记录，每周查看结算，并在付款前先分享结果，便于双方保持一致。";
+"about.nav.title" = "关于 Amor&Contas";
+"about.continue" = "继续";
+
+"store.default.personA" = "成员 A";
+"store.default.personB" = "成员 B";
+"store.default.person" = "成员";
+"store.default.expense" = "支出";
+"store.addPerson.name" = "成员 %d";
+"store.settlement.balanced" = "所有金额已平衡！一切就绪 ❤️";
+"store.settlement.transfer" = "%1$@ 应向 %3$@ 转账 %2$@。";
+"store.settlement.pays" = "%1$@ 支付 %2$@";
+"store.settlement.receives" = "%1$@ 收取 %2$@";
+
+"purchase.debug.enabled" = "DEBUG 构建：已自动启用 Full 版本。";
+"purchase.product.loadFail" = "当前无法加载购买选项。";
+"purchase.full.unavailable" = "Full 版本当前不可用。";
+"purchase.debug.noPurchase" = "DEBUG 构建：无需购买已启用 Full 版本。";
+"purchase.full.activated" = "Full 版本已激活 ✅";
+"purchase.pending" = "购买正在等待批准。";
+"purchase.unexpected" = "出现意外的购买结果。";
+"purchase.failed" = "购买失败，请重试。";
+"purchase.debug.restored" = "DEBUG 构建：已自动恢复 Full 版本。";
+"purchase.restored" = "购买已恢复 ✅";
+"purchase.noPrevious" = "未找到之前的 Full 购买记录。";
+"purchase.restore.failed" = "当前无法恢复购买。";
+
+"addExpense.preview.title" = "预览";
+"addExpense.preview.share" = "此项费用的份额：";
+"addExpense.preview.totalAfter" = "添加后的总计：";

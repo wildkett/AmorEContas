@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">Résumé du budget du couple</string>
+    <string name="summary_paid">%s a payé</string>
+    <string name="summary_total">Total</string>
+    <string name="summary_fairshare">Part équitable de %s</string>
+    <string name="division_section_title">Répartition</string>
+    <string name="division_share">Part de %s</string>
+    <string name="settlement_section_title">Règlement</string>
+    <string name="settlement_copy">Copier le règlement</string>
+    <string name="settlement_share">Partager le règlement</string>
+    <string name="settlement_signature">\n\n— Partagé depuis Amor&amp;Contas 💗</string>
+    <string name="settings_settlementdetailed_toggle">Règlement détaillé</string>
+    <string name="settlement_detail_empty">Aucun détail de règlement disponible pour le moment.</string>
+    <string name="settlement_detail_title">Détail du calcul</string>
+    <string name="settlement_detail_total">Dépenses totales : %s</string>
+    <string name="settlement_detail_mode_scale">Mode : Automatique (Échelle) • Échelle totale = %s</string>
+    <string name="settlement_detail_mode_equal">Mode : Répartition égale • %d personnes</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">Payé : %s</string>
+    <string name="settlement_detail_person_shareshape">Part équitable = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">Part équitable = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">Solde = %s - %s = 0.00 (équilibré)</string>
+    <string name="settlement_detail_person_balance_owes">Solde = %s - %s = -%s (doit)</string>
+    <string name="settlement_detail_person_balance_receives">Solde = %s - %s = +%s (reçoit)</string>
+    <string name="settlement_detail_result_title">Résultat du règlement</string>
+    <string name="alert_copied_title">Copié</string>
+    <string name="alert_settlementcopied_message">Texte de règlement copié avec succès.</string>
+    <string name="alert_expenseadded_title">Dépense ajoutée</string>
+    <string name="alert_invalidamount_title">Montant invalide</string>
+    <string name="alert_invalidamount_message">Saisissez un montant supérieur à 0 pour ajouter une dépense.</string>
+</resources>

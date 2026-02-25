@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">Çift bütçe özeti</string>
+    <string name="summary_paid">%s ödedi</string>
+    <string name="summary_total">Toplam</string>
+    <string name="summary_fairshare">%s için adil pay</string>
+    <string name="division_section_title">Bölüşüm</string>
+    <string name="division_share">%s payı</string>
+    <string name="settlement_section_title">Hesaplaşma</string>
+    <string name="settlement_copy">Hesaplaşmayı kopyala</string>
+    <string name="settlement_share">Hesaplaşmayı paylaş</string>
+    <string name="settlement_signature">\n\n— Paylaşıldı: Amor&amp;Contas 💗</string>
+    <string name="settings_settlementdetailed_toggle">Detaylı hesaplaşma</string>
+    <string name="settlement_detail_empty">Henüz hesaplaşma detayı yok.</string>
+    <string name="settlement_detail_title">Detaylı döküm</string>
+    <string name="settlement_detail_total">Toplam harcama: %s</string>
+    <string name="settlement_detail_mode_scale">Mod: Otomatik (Ölçek) • Toplam ölçek = %s</string>
+    <string name="settlement_detail_mode_equal">Mod: Eşit bölüşüm • %d kişi</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">Ödedi: %s</string>
+    <string name="settlement_detail_person_shareshape">Adil pay = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">Adil pay = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">Bakiye = %s - %s = 0.00 (dengede)</string>
+    <string name="settlement_detail_person_balance_owes">Bakiye = %s - %s = -%s (ödemeli)</string>
+    <string name="settlement_detail_person_balance_receives">Bakiye = %s - %s = +%s (alacaklı)</string>
+    <string name="settlement_detail_result_title">Hesaplaşma sonucu</string>
+    <string name="alert_copied_title">Kopyalandı</string>
+    <string name="alert_settlementcopied_message">Hesaplaşma metni başarıyla kopyalandı.</string>
+    <string name="alert_expenseadded_title">Harcama eklendi</string>
+    <string name="alert_invalidamount_title">Geçersiz tutar</string>
+    <string name="alert_invalidamount_message">Harcama eklemek için sıfırdan büyük bir tutar girin.</string>
+</resources>

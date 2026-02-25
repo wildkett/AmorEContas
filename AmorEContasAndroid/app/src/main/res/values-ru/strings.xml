@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">Сводка бюджета пары</string>
+    <string name="summary_paid">%s оплатил(а)</string>
+    <string name="summary_total">Итого</string>
+    <string name="summary_fairshare">Справедливая доля %s</string>
+    <string name="division_section_title">Разделение</string>
+    <string name="division_share">Доля %s</string>
+    <string name="settlement_section_title">Расчет</string>
+    <string name="settlement_copy">Скопировать расчет</string>
+    <string name="settlement_share">Поделиться расчетом</string>
+    <string name="settlement_signature">\n\n— Отправлено из Amor&amp;Contas 💗</string>
+    <string name="settings_settlementdetailed_toggle">Подробный расчет</string>
+    <string name="settlement_detail_empty">Подробности расчета пока недоступны.</string>
+    <string name="settlement_detail_title">Подробная разбивка</string>
+    <string name="settlement_detail_total">Общие расходы: %s</string>
+    <string name="settlement_detail_mode_scale">Режим: Авто (Шкала) • Общая шкала = %s</string>
+    <string name="settlement_detail_mode_equal">Режим: Равное деление • %d чел.</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">Оплачено: %s</string>
+    <string name="settlement_detail_person_shareshape">Справедливая доля = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">Справедливая доля = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">Баланс = %s - %s = 0.00 (сбалансировано)</string>
+    <string name="settlement_detail_person_balance_owes">Баланс = %s - %s = -%s (должен)</string>
+    <string name="settlement_detail_person_balance_receives">Баланс = %s - %s = +%s (получает)</string>
+    <string name="settlement_detail_result_title">Итог расчета</string>
+    <string name="alert_copied_title">Скопировано</string>
+    <string name="alert_settlementcopied_message">Текст расчета успешно скопирован.</string>
+    <string name="alert_expenseadded_title">Расход добавлен</string>
+    <string name="alert_invalidamount_title">Некорректная сумма</string>
+    <string name="alert_invalidamount_message">Введите сумму больше 0, чтобы добавить расход.</string>
+</resources>

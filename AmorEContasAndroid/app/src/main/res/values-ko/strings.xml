@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summary_section_title">커플 예산 요약</string>
+    <string name="summary_paid">%s 결제</string>
+    <string name="summary_total">총합</string>
+    <string name="summary_fairshare">%s의 공정 분담</string>
+    <string name="division_section_title">분담</string>
+    <string name="division_share">%s의 분담</string>
+    <string name="settlement_section_title">정산</string>
+    <string name="settlement_copy">정산 내용 복사</string>
+    <string name="settlement_share">정산 내용 공유</string>
+    <string name="settlement_signature">\n\n— Amor&amp;Contas에서 공유 💗</string>
+    <string name="settings_settlementdetailed_toggle">상세 정산</string>
+    <string name="settlement_detail_empty">아직 정산 상세 내역이 없습니다.</string>
+    <string name="settlement_detail_title">상세 계산 내역</string>
+    <string name="settlement_detail_total">총지출: %s</string>
+    <string name="settlement_detail_mode_scale">모드: 자동(스케일) • 총 스케일 = %s</string>
+    <string name="settlement_detail_mode_equal">모드: 균등 분담 • %d명</string>
+    <string name="settlement_detail_person_header">%s</string>
+    <string name="settlement_detail_person_paid">지불: %s</string>
+    <string name="settlement_detail_person_shareshape">공정 분담 = %s × (%s / %s) = %s</string>
+    <string name="settlement_detail_person_shareequal">공정 분담 = %s / %d = %s</string>
+    <string name="settlement_detail_person_balance_neutral">잔액 = %s - %s = 0.00 (균형)</string>
+    <string name="settlement_detail_person_balance_owes">잔액 = %s - %s = -%s (지불 필요)</string>
+    <string name="settlement_detail_person_balance_receives">잔액 = %s - %s = +%s (수령)</string>
+    <string name="settlement_detail_result_title">정산 결과</string>
+    <string name="alert_copied_title">복사됨</string>
+    <string name="alert_settlementcopied_message">정산 문구가 복사되었습니다.</string>
+    <string name="alert_expenseadded_title">지출 추가됨</string>
+    <string name="alert_invalidamount_title">유효하지 않은 금액</string>
+    <string name="alert_invalidamount_message">지출을 추가하려면 0보다 큰 금액을 입력하세요.</string>
+</resources>
