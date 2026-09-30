@@ -10,7 +10,7 @@
 "settlement.copy" = "Copiar acerto";
 "settlement.share" = "Compartilhar acerto";
 "settlement.signature" = "\n\n— Compartilhado do Amor&Contas 💗";
-"settings.settlementDetailed.toggle" = "Settlement detalhado";
+"settings.settlementDetailed.toggle" = "Acerto detalhado";
 "settlement.detail.empty" = "Ainda não há detalhes de acerto disponíveis.";
 "settlement.detail.title" = "Explicação matemática";
 "settlement.detail.total" = "Total de despesas: %@";
